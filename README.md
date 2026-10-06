@@ -4,6 +4,10 @@ Uma aplicação web responsiva para gerenciamento de tarefas, desenvolvida com *
 
 O projeto permite adicionar, concluir, desfazer e excluir tarefas, mantendo os dados salvos no navegador através do **Local Storage**.
 
+## 🌐 Projeto online
+
+🔗 [Acesse a aplicação](https://thiago-alvesdev.github.io/To-do-list/)
+
 ## 🚀 Funcionalidades
 
 - Adicionar novas tarefas
